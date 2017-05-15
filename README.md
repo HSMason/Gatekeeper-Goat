@@ -4,7 +4,7 @@ A whole repo just for GGoat
 
 # The Meme
 
-[[ http://truegif.com/pictures/gif/21799.gif | height = 100px ]]
+![GGoat](http://truegif.com/pictures/gif/21799.gif)
 
 # Why Gatekeeper Goat should be A Thing
 
